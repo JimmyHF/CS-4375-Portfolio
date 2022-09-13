@@ -5,5 +5,8 @@ Fall 2022
 [Overview of ML](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Overview%20of%20ML.pdf)
 
 ## C++ Data Exploration
+
+Finding the covariance and correlation of a data set using C++
+
 [Exploration Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/explore.cpp)<br/>
 [Exploration Output](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Data%20Exploration.pdf)
