@@ -22,6 +22,6 @@ Performing regressions and classifications on medium-sized data sets in R
 
 Modeling Titanic data with logistic regression and Naive Bayes models using C++
 
-[Logistic Regression Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/log.cpp)
-[Naive Bayes Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/main.cpp)
+[Logistic Regression Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/log.cpp)<br/>
+[Naive Bayes Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/main.cpp)<br/>
 [Description](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Classification%20from%20Scratch.pdf)
