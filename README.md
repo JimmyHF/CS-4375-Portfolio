@@ -17,3 +17,11 @@ Performing regressions and classifications on medium-sized data sets in R
 
 [Regression](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Regression.pdf)<br/>
 [Classification](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Classfication.pdf)
+
+## C++ ML From Scratch
+
+Modeling Titanic data with logistic regression and Naive Bayes models using C++
+
+[Logistic Regression Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/log.cpp)
+[Naive Bayes Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/main.cpp)
+[Description](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Classification%20from%20Scratch.pdf)
