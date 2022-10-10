@@ -25,3 +25,11 @@ Modeling Titanic data with logistic regression and Naive Bayes models using C++
 [Logistic Regression Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/log.cpp)<br/>
 [Naive Bayes Code](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/main.cpp)<br/>
 [Description](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Classification%20from%20Scratch.pdf)
+
+## Searching for Similarity
+
+[Regression](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Regression2_1.pdf)<br/>
+[Classification](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Classfication.pdf)<br/>
+[Clustering](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Clustering.pdf)<br/>
+[Dimensionality Reduction](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/dimensionality-reduction.pdf)<br/>
+[Narrative](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Narrative%20(1).pdf)
