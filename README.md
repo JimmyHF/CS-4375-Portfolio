@@ -42,3 +42,9 @@ Performing regressions and classifications on medium-sized data sets using suppo
 [SVM Classification](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/SVM-classification.pdf)<br/>
 [Ensemble Methods](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/EnsembleMethods.pdf)<br/>
 [Narrative](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Kernel_and_Ensemble_Narrative.pdf)
+
+## Machine Learning with SKLearn
+
+Using logistic regression, decision tree, and neural networks on an automobile dataset with SKLearn in Python
+
+[Notebook](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/MLWithSKLearn.pdf)
