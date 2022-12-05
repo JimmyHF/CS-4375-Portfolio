@@ -48,3 +48,10 @@ Performing regressions and classifications on medium-sized data sets using suppo
 Using logistic regression, decision tree, and neural networks on an automobile dataset with SKLearn in Python
 
 [Notebook](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/MLWithSKLearn.pdf)
+
+## Image Classification
+
+Using PyTorch and SKLearn to train neural networks to identify images of dogs
+
+[Notebook](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Image_Classification-_Dog_identifier.pdf)<br/>
+[Narrative](https://github.com/JimmyHF/CS_4375_Portfolio/blob/main/Image%20Classification.pdf)
